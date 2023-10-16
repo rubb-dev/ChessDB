@@ -12,10 +12,11 @@ Base de datos completa de Ajedrez que permite:
 * Una vez alcanzado un título superior no puedes volver a uno inferior
 * Otras funcionalidades...
 
-  El respositorio incluye:
-  * Una imagen con el diagrama y las relaciones entre las distitntas tablas
-  * Un archivo para agragar jugadores, torneos y partidas aleatorias
-  * Un archivo con comprobaciones
-  * Archivo principal de la base de datos
+El respositorio incluye:
+* Una imagen con el diagrama y las relaciones entre las distitntas tablas
+* Un archivo para agragar jugadores, torneos y partidas aleatorias
+* Un archivo con comprobaciones
+* Archivo principal de la base de datos
 
-    ![Diagrama Tablas y Relaciones](chessDB_diagram_rubenvicente.jpg)
+
+![Diagrama Tablas y Relaciones](ChessBD/chessDB_diagram_rubenvicente.jpg)
